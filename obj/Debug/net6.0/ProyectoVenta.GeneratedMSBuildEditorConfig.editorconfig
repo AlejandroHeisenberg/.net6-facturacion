@@ -1,0 +1,68 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ProyectoVenta
+build_property.RootNamespace = ProyectoVenta
+build_property.ProjectDir = C:\Users\aleja\Desktop\055_SISTEMA_VENTA_CORE\ProyectoVenta\ProyectoVenta\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
+build_property.MSBuildProjectDirectory = C:\Users\aleja\Desktop\055_SISTEMA_VENTA_CORE\ProyectoVenta\ProyectoVenta
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/aleja/Desktop/055_SISTEMA_VENTA_CORE/ProyectoVenta/ProyectoVenta/Views/Acceso/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjZXNvXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aleja/Desktop/055_SISTEMA_VENTA_CORE/ProyectoVenta/ProyectoVenta/Views/Home/DetalleVenta.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEZXRhbGxlVmVudGEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aleja/Desktop/055_SISTEMA_VENTA_CORE/ProyectoVenta/ProyectoVenta/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aleja/Desktop/055_SISTEMA_VENTA_CORE/ProyectoVenta/ProyectoVenta/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aleja/Desktop/055_SISTEMA_VENTA_CORE/ProyectoVenta/ProyectoVenta/Views/Inventario/Categorias.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52ZW50YXJpb1xDYXRlZ29yaWFzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aleja/Desktop/055_SISTEMA_VENTA_CORE/ProyectoVenta/ProyectoVenta/Views/Inventario/Productos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52ZW50YXJpb1xQcm9kdWN0b3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aleja/Desktop/055_SISTEMA_VENTA_CORE/ProyectoVenta/ProyectoVenta/Views/Reporte/Ventas.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVwb3J0ZVxWZW50YXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aleja/Desktop/055_SISTEMA_VENTA_CORE/ProyectoVenta/ProyectoVenta/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aleja/Desktop/055_SISTEMA_VENTA_CORE/ProyectoVenta/ProyectoVenta/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aleja/Desktop/055_SISTEMA_VENTA_CORE/ProyectoVenta/ProyectoVenta/Views/Usuario/Usuarios.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xVc3Vhcmlvcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aleja/Desktop/055_SISTEMA_VENTA_CORE/ProyectoVenta/ProyectoVenta/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aleja/Desktop/055_SISTEMA_VENTA_CORE/ProyectoVenta/ProyectoVenta/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aleja/Desktop/055_SISTEMA_VENTA_CORE/ProyectoVenta/ProyectoVenta/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-57qyc81ekz
